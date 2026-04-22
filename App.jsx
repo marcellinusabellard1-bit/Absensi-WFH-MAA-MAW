@@ -5,10 +5,10 @@ const EMPLOYEES_KEY = "wfh_employees_data";
 const SESSION_KEY = "wfh_session";
 
 const DEFAULT_EMPLOYEES = [
-  { id: "EMP001", name: "Budi Santoso", department: "Engineering", pin: "1234" },
-  { id: "EMP002", name: "Siti Rahayu", department: "Marketing", pin: "2345" },
-  { id: "EMP003", name: "Ahmad Fauzi", department: "Finance", pin: "3456" },
-  { id: "EMP004", name: "Dewi Lestari", department: "HR", pin: "4567" },
+  { id: "EMP001", name: "Marserio", department: "Engineering", pin: "1234" },
+  { id: "EMP002", name: "Russell Rene", department: "Marketing", pin: "2345" },
+  { id: "EMP003", name: "Marseille", department: "Finance", pin: "3456" },
+  { id: "EMP004", name: "Axelle", department: "HR", pin: "4567" },
 ];
 
 const ADMIN_PIN = "0000";
